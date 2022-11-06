@@ -1,16 +1,71 @@
-### Hi there 👋
+# Seja Bem Vindo! 👋
 
-<!--
-**kaykyextr3me/kaykyextr3me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+# Sobre mim 💬 :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  → Desenvolvedor BackEnd Jr.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Conhecimentos :
+- ✨ Python
+- ✨ HTML5 | CSS3
+- ✨ Frameworks: Flask | Django
+- ✨ Utilização e desenvolvimento de APIs
+
+### - Hobbies : 
+- ✨ Games de ação
+- ✨ Assistir animes
+- ✨ Explorar novas tecnologias
+- ✨ Desenvolver aplicações
+
+
+</br>
+
+
+  <div style="display: inline_block" ><br>
+  <img align="right" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+<img align="right" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+
+# Contate me :
+
+<p>
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+Estou ansioso pelo seu contato 😉.
+
+<a href="kaykycontato014@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href=https://www.linkedin.com/in/kayky-alexandre-dos-reis-235018227/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+
+
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=kaykyextr3me&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+  
+
+ 
