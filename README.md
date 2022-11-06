@@ -11,6 +11,7 @@
 ### - Conhecimentos :
 - ✨ Python
 - ✨ HTML5 | CSS3
+- ✨ SQL
 - ✨ Frameworks: Flask | Django
 - ✨ Utilização e desenvolvimento de APIs
 
