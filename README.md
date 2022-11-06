@@ -1,4 +1,4 @@
-# Seja Bem Vindo! 👋
+# Seja Bem-Vindo! 👋
 
 </br>
 
