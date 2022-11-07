@@ -47,7 +47,7 @@ Estou ansioso pelo seu contato 😉.
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/kayky-alexandre-dos-reis-235018227/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" target="_blank" rel="external" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
