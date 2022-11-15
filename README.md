@@ -7,6 +7,7 @@
 ###  → Desenvolvedor BackEnd Jr. 🐍
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/kaykyextr3me/kaykyextr3me/blob/eb087db9360b1ed6b8e338c5907d4e626a25ee5a/imgs/estudando.webp">
+<br>
 
 ### - Conhecimentos :
 - ✨ Python
