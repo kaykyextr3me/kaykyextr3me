@@ -49,7 +49,7 @@ Estou ansioso pelo seu contato 😉.
 
 
 <div align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <a href="https://github.com/kaykyextr3me?tab=repositories"> 
     <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=kaykyextr3me&&show_icons=true&theme=radical"/> &nbsp
     <img height="180em" width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyextr3me&layout=compact&langs_count=7&theme=dracula"/>
   </a>
