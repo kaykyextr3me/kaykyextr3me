@@ -47,12 +47,12 @@ Estou ansioso pelo seu contato 😉.
 
 
 
-<p align="center" >  
+<div align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img height="180em" width="475px" src="https://github-readme-stats.vercel.app/api?username=kaykyextr3me&&show_icons=true&theme=radical"/> &nbsp
     <img height="180em" width="475px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyextr3me&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</p>
+</div>
   
 
  
