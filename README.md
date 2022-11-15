@@ -15,13 +15,6 @@
 - ✨ Frameworks: Flask | Django
 - ✨ Utilização e desenvolvimento de APIs
 
-### - Hobbies : 
-- ✨ Games de ação
-- ✨ Assistir animes
-- ✨ Explorar novas tecnologias
-- ✨ Desenvolver aplicações
-
-
 </br>
 
 
